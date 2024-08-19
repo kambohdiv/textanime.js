@@ -12,7 +12,7 @@ First, include the `TextAnime library cdn` in your JavaScript code:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ahkamboh/textanime.js@main/TextAnime.js/textanime.css">
 ```
 ```javascript
-<script src="https://cdn.jsdelivr.net/gh/ahkamboh/textanime.js@main/TextAnime.js/textanime.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kambohdiv/textanime.js@main/TextAnime.js/textanime.js"></script>
 ```
 
 Then, create a new instance of `TextAnime`:
